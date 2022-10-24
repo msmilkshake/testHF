@@ -13,5 +13,7 @@ public class PaceCalculator {
 		System.out.printf("%02d:%02d/km", minutes, seconds);
 		System.out.print("\nPress ENTER to exit");
 		scanner.nextLine();
+		
+		System.out.println("Changed!");
 	}
 }
